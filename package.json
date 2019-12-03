@@ -1,0 +1,22 @@
+{
+  "name": "pokenode",
+  "version": "1.0.0",
+  "description": "Pokédex",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index"
+  },
+  "keywords": [
+    "pokémon",
+    "pokédex",
+    "node",
+    "axios",
+    "inquirer"
+  ],
+  "author": "Mauricio Chávez Olea",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "inquirer": "^7.0.0"
+  }
+}
