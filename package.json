@@ -9,7 +9,7 @@
     "inquirer": "^7.0.0"
   },
   "scripts": {
-    "test": "node src/index"
+    "start": "node src/index"
   },
   "repository": {
     "type": "git",
